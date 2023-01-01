@@ -1,1 +1,1 @@
-This is going to be my "tips and tricks" page for online privacy, security, and odds and ends. If you want to support what I do, you can send me some XMR at 48FmXspsu9ybk2yoR4EGzPLXC7pAkp7tjidQXCfXFKgmMADXb5hSrXp7yg1oVDr5uVixekJCEUYTE6VpBPZdNCbR3GdMoGK.
+This is going to be my "tips and tricks" page for online privacy, security, and odds and ends. If you want to support what I do, you can send me some Monero at 48FmXspsu9ybk2yoR4EGzPLXC7pAkp7tjidQXCfXFKgmMADXb5hSrXp7yg1oVDr5uVixekJCEUYTE6VpBPZdNCbR3GdMoGK.
